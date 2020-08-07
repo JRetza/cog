@@ -8,7 +8,5 @@
 [assembly: AssemblyCopyright("Copyright © 2019 SIL International")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-
-
 [assembly: AssemblyFileVersion("1.3.4.DEV_BUILD")]
 [assembly: AssemblyVersion("1.3.4.0")]
